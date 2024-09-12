@@ -1,0 +1,1 @@
+Unis Social Media is a dynamic web app offering a rich social networking experience. Built with React for an interactive UI and Express.js for REST APIs, it uses MySQL for robust data management. Features include user authentication, real-time updates, and a user-friendly design for seamless content sharing and interaction.
